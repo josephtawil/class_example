@@ -1,6 +1,2 @@
 purple
 red
-yellow
-green
-blue
-new branch
