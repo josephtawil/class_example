@@ -1,8 +1,4 @@
 purple
 red
 
-<<<<<<< HEAD
-system.out.println("Hello World);
-=======
 farid tawil is the best
->>>>>>> farid
