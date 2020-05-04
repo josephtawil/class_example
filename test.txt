@@ -1,8 +1,5 @@
 purple
 red
 
-<<<<<<< HEAD
 farid tawil is the best
-=======
 farid tawil is the best 
->>>>>>> farid
